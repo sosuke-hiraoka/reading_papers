@@ -12,11 +12,12 @@ Track and visualize your paper reading with auto-updated charts.
 
 | Category | Count |
 |---|---|
-| LLM | 1 |
-| **Total** | **1** |
+| LLM | 2 |
+| **Total** | **2** |
 
 **Recently read**
 
+- [Agent-in-the-Loop: A Data Flywheel for Continuous Improvement in LLM-based Customer Support](https://aclanthology.org/2025.emnlp-industry.135/) — *LLM* (2025-12-04)
 - [How to Correctly Report LLM-as-a-Judge Evaluations](https://arxiv.org/abs/2511.21140) — *LLM* (2025-12-02)
 <!--CHART_END-->
 

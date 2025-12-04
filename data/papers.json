@@ -4,5 +4,11 @@
     "category": "LLM",
     "date": "2025-12-02",
     "link": "https://arxiv.org/abs/2511.21140"
+  },
+  {
+    "title": "Agent-in-the-Loop: A Data Flywheel for Continuous Improvement in LLM-based Customer Support",
+    "category": "LLM",
+    "date": "2025-12-04",
+    "link": "https://aclanthology.org/2025.emnlp-industry.135/"
   }
 ]
