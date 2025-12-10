@@ -10,5 +10,17 @@
     "category": "LLM",
     "date": "2025-12-04",
     "link": "https://aclanthology.org/2025.emnlp-industry.135/"
+  },
+  {
+    "title": "MMGraphRAG: Bridging Vision and Language with Interpretable Multimodal Knowledge Graphs",
+    "category": "LLM",
+    "date": "2025-12-10",
+    "link": "https://arxiv.org/abs/2507.20804"
+  },
+  {
+    "title": "A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models",
+    "category": "LLM",
+    "date": "2025-12-10",
+    "link": "https://arxiv.org/abs/2501.13958"
   }
 ]
