@@ -22,5 +22,11 @@
     "category": "LLM",
     "date": "2025-12-10",
     "link": "https://arxiv.org/abs/2501.13958"
+  },
+  {
+    "title": "Recursive Language Models",
+    "category": "LLM",
+    "date": "2026-01-22",
+    "link": "https://arxiv.org/abs/2512.24601"
   }
 ]

@@ -12,11 +12,12 @@ Track and visualize your paper reading with auto-updated charts.
 
 | Category | Count |
 |---|---|
-| LLM | 4 |
-| **Total** | **4** |
+| LLM | 5 |
+| **Total** | **5** |
 
 **Recently read**
 
+- [Recursive Language Models](https://arxiv.org/abs/2512.24601) — *LLM* (2026-01-22)
 - [MMGraphRAG: Bridging Vision and Language with Interpretable Multimodal Knowledge Graphs](https://arxiv.org/abs/2507.20804) — *LLM* (2025-12-10)
 - [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958) — *LLM* (2025-12-10)
 - [Agent-in-the-Loop: A Data Flywheel for Continuous Improvement in LLM-based Customer Support](https://aclanthology.org/2025.emnlp-industry.135/) — *LLM* (2025-12-04)
